@@ -14,3 +14,4 @@ Virtualenv env
 ## Activate virtual environment 
 env\scripts\activate   
 
+## Install Flask in this environment
