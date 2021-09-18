@@ -3,7 +3,7 @@
 
 ## Setting up environment
 
-## install virtual environment :  
+## Create virtual environment :  
 
 pip3 install virtualenv  
 Virtualenv env   
