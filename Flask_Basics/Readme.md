@@ -1,9 +1,14 @@
 # Flask 
 
 
-## Create virtual environment  
+## Installs virtualenv 
 
 pip3 install virtualenv  
+
+## Create new virtual environment in a folder  
+
+mkdir newproj
+cd newproj
 Virtualenv env   
 
 ## Activate virtual environment 
