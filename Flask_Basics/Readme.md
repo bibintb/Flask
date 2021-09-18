@@ -12,6 +12,9 @@ cd newproj
 Virtualenv env   
 
 ## Activate virtual environment 
-env\scripts\activate   
 
-## Install Flask in this environment
+env\scripts\activate  
+
+## Install Flask in this environment  
+
+pip install Flask
