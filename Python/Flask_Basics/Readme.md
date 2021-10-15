@@ -2,9 +2,9 @@
 
 
 ## Installs virtualenv 
-
+```
 pip3 install virtualenv  
-
+```
 ## Create new virtual environment in a folder  
 
 mkdir newproj
